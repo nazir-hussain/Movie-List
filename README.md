@@ -1,3 +1,3 @@
 # Movie-List with react
 
-simple and
+simple, atractive and responsive
